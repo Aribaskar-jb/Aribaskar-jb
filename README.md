@@ -1,6 +1,4 @@
-### Hi there 👋
-### This is Aribaskar.j.b
-
+### Hi there  I'm Aribaskar👋
 <!--
 **Aribaskar-jb/Aribaskar-jb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
