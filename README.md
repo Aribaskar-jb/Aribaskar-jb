@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me j.b.aribaskar1515@gmail.com
 
 
-![Aribaskar-jb GitHub stats](https://github-readme-stats.vercel.app/api?username=Aribaskar-jb&theme=dark&show_icons=true)
+![Aribaskar-jb GitHub stats](https://github-readme-stats.vercel.app/api?username=Aribaskar-jb&theme=light&show_icons=true)
