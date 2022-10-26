@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 
 ![Aribaskar-jb GitHub stats](https://github-readme-stats.vercel.app/api?username=Aribaskar-jb&theme=dark&show_icons=true)
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
